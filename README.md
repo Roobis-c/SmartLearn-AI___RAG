@@ -158,41 +158,8 @@ SmartLearn-RAG/
 
 ---
 
-## 📦 Installation
 
-### Clone Repository
 
-```bash
-git clone https://github.com/yourusername/smartlearn-rag.git
-
-cd smartlearn-rag
-```
-
-### Create Virtual Environment
-
-```bash
-python -m venv venv
-```
-
-Activate environment:
-
-#### Windows
-
-```bash
-venv\Scripts\activate
-```
-
-#### Linux / Mac
-
-```bash
-source venv/bin/activate
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
 
 ### Environment Variables
 
@@ -204,25 +171,7 @@ GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
 
 ---
 
-## ▶️ Run Application
 
-```bash
-python app.py
-```
-
-Flask server starts on:
-
-```text
-http://127.0.0.1:5000
-```
-
-Open in browser:
-
-```text
-http://localhost:5000
-```
-
----
 
 ## 🔍 API Endpoints
 
@@ -343,35 +292,6 @@ to reduce redundancy and improve integrity.
 
 ---
 
-## 🚀 Future Enhancements
-
-- Multi-user support
-- Chat history
-- Source citation display
-- PDF preview
-- Persistent vector database
-- Hybrid Search (Keyword + Semantic)
-- Document summarization
-- Export chat conversations
-- Docker deployment
-- Cloud storage integration
-
----
-
-## 📈 Learning Outcomes
-
-This project demonstrates practical implementation of:
-
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases
-- Semantic Search
-- Embedding Models
-- Large Language Models (LLMs)
-- Document Intelligence Systems
-- Full Stack AI Application Development
-
----
-
 ## 👨‍💻 Author
 
 **Roobis C**
@@ -386,7 +306,7 @@ AI & Full Stack Developer
 - Generative AI
 - RAG Systems
 - Vector Databases
-- React / JavaScript
+- HTML, CSS, JavaScript
 
 ---
 
